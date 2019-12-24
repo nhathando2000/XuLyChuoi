@@ -7,6 +7,8 @@ public class TestStr {
 		System.out.println("Hôm nay học xử lí chuỗi ");
 		System.out.println("Hello mn");
 		System.out.println("kkk");
+		int a=0;
+		System.out.println("a= "+a);
 	}
 
 }
